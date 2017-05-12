@@ -67,8 +67,7 @@ div{
   padding-bottom: 5%;
   background-color: gray;
   height: 300px;
-  overflow: hidden;
-  /margin: 2%;
+  overflow: scroll;
   border: 1px solid black;
 }
 
