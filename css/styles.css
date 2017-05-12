@@ -69,6 +69,7 @@ div{
   height: 300px;
   overflow: hidden;
   /margin: 2%;
+  border: 1px solid black;
 }
 
 
